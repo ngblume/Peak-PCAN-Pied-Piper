@@ -5,10 +5,12 @@ Use a PEAK USB CAN adapter to record CAN  messages and forward them via pipes to
 
 ## Usage
 
-1. **Silent**
+**Silent**
+
 python PEAK_CAN_Pied_Piper.py -p PCAN_USBBUS2 -b PCAN_BAUD_250K
 
-2. **Verbose**
+**Verbose**
+
 python PEAK_CAN_Pied_Piper.py -p PCAN_USBBUS2 -b PCAN_BAUD_250K -v
 
 ## Open Issues
