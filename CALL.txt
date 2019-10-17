@@ -1,0 +1,5 @@
+Silent:
+python PEAK_CAN_Pied_Piper.py -p PCAN_USBBUS2 -b PCAN_BAUD_250K
+
+Verbose:
+python PEAK_CAN_Pied_Piper.py -p PCAN_USBBUS2 -b PCAN_BAUD_250K -v
