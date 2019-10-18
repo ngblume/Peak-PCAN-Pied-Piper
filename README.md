@@ -19,4 +19,4 @@ python PEAK_CAN_Pied_Piper.py -p PCAN_USBBUS2 -b PCAN_BAUD_250K -v
 
 ## Open Issues
 
-1. Use python-can as HAL
+[ ] Use python-can as HAL
